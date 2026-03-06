@@ -15,7 +15,7 @@
 
 > 你上传 GIF 后，替换或保留以下路径即可。
 
-![功能演示 GIF](./assets/demo.gif)
+![功能演示 GIF](./bilibili-auto-comment.gif)
 
 ---
 
